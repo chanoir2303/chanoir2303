@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chanoir2303
-- 👀 I’m interested in web & mobile development throught computational journalism
-- 🌱 I’m currently training on python and swift
+- 👀 I’m interested in web & mobile development
+- 🌱 I’m currently training my python skills
 - 💞️ You can ask me to collaborate on open source project
 - 📫 Links are in my bio to contact me
 
